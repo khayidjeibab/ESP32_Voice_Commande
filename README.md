@@ -1,7 +1,7 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
+
 # DIY Alexa With the ESP32 and Wit.AI
 
-All the source code for this tutorial is in [GitHub](https://github.com/atomic14/diy-alexa)
+
 
 ## Introduction
 
@@ -9,7 +9,6 @@ This tutorial will guide you through the process of creating your own DIY Alexa 
 
 There's a full video tutorial to accompany this available here:
 
-[![Demo Video](https://img.youtube.com/vi/re-dSV_a0tM/0.jpg)](https://www.youtube.com/watch?v=re-dSV_a0tM)
 
 First off, let's define what an Alexa is? What are we going to build?
 
